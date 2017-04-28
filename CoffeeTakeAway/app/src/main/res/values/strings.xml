@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CoTA</string>
+    <string name="title_wellcome">Wellcome to</string>
+    <string name="title_app_name">Coffee Take Away</string>
+    <string name="hint_email">EMAIL</string>
+    <string name="hint_password">PASSWORD</string>
+    <string name="title_button_login">Login</string>
+    <string name="title_text_forgot_password">Forgot your password?</string>
+    <string name="title_text_or">OR</string>
+    <string name="title_have_an_account">I have an account. Sigin now</string>
+    <string name="title_no_have_account">Doens\'t have an account? Sign up</string>
+    <string name="title_register">REGISTER</string>
+    <string name="title_button_register">register</string>
+    <string name="hint_re_password">REPASSWORD</string>
+    <string name="hint_name">NAME</string>
+</resources>
